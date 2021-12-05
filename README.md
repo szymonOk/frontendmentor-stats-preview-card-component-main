@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/szymonOk/nft_preview_card.git
-- Live Site URL: https://szymonok.github.io/nft_preview_card/
+- Solution URL: https://github.com/szymonOk/stats-preview-card-component-main.git
+- Live Site URL: https://szymonok.github.io/stats-preview-card-component-main/
 
 ### Built with
 
