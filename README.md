@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/szymonOk/stats-preview-card-component-main.git
-- Live Site URL: https://szymonok.github.io/stats-preview-card-component-main/
+- Solution URL: https://github.com/szymonOk/frontendmentor-stats-preview-card-component-main.git
+- Live Site URL: https://szymonok.github.io/frontendmentor-stats-preview-card-component-main/
 
 ### Built with
 
