@@ -1,0 +1,98 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #090b1a;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 15px;
+}
+
+.main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 90%;
+  width: 100%;
+  max-width: 300px;
+  background-color: #1b1938;
+  color: white;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.main .img-box {
+  position: relative;
+  background-image: url("../images/image-header-mobile.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  max-height: 35%;
+}
+
+.main .img-box .bg-shadow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(154, 52, 218, 0.4);
+}
+
+.main .text-box {
+  height: 100%;
+  max-height: 65%;
+  text-align: center;
+  padding: 15px;
+}
+
+.main .text-box h2 {
+  margin-bottom: 20px;
+}
+
+.main .text-box h2 span {
+  color: #9b33db;
+}
+
+.main .text-box p {
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 20px;
+  line-height: 24px;
+}
+
+.main .text-box .stats {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.main .text-box .stats div p {
+  text-transform: uppercase;
+  margin-top: 5px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+}
+/*# sourceMappingURL=style.css.map */
